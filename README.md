@@ -140,16 +140,6 @@ Articles in the **"World"** category were most often confused with **"Entertainm
 
 ---
 
-## 👨‍💻 Authors
-
-- Muhammad Muiz Farhan  
-- Muhammad Ibrahim  
-- Abdul Samad – [GitHub](https://github.com/ASamad73)  
-- Haider Abbas Virk  
-- Hussain Sulaiman Zia  
-
----
-
 ## 📄 Reference
 
 The project report and detailed metrics are documented in the [paper](https://github.com/ASamad73/Urdu_News_Classification-ML/blob/master/19_Report.pdf)
