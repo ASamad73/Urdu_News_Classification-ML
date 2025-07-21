@@ -4,11 +4,6 @@
   <i>Multiclass Text Classification on Urdu News Articles from Pakistani Media</i>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ASamad73/Urdu_News_Classification-ML">🔗 GitHub Repo</a> |
-  <a href="https://github.com/ASamad73/Urdu_News_Classification-ML/blob/main/19_Report.pdf">📄 Project Report</a>
-</p>
-
 ---
 
 ## 📌 Project Overview
@@ -152,6 +147,12 @@ Articles in the **"World"** category were most often confused with **"Entertainm
 - Abdul Samad – [GitHub](https://github.com/ASamad73)  
 - Haider Abbas Virk  
 - Hussain Sulaiman Zia  
+
+---
+
+## 📄 Reference
+
+The project report and detailed metrics are documented in
 
 ---
 
