@@ -103,14 +103,14 @@ Articles in the **"World"** category were most often confused with **"Entertainm
 
 ## 🧪 Tools & Libraries
 
-- 🐍 Python
-- 🧮 Numpy (for MNB & LR)
-- 🔥 PyTorch (Neural Net)
-- 🧹 Regex (for Urdu text)
-- 📊 Matplotlib, Seaborn
-- 📄 Pandas
-- 🔠 Kaggle Urdu Stopwords
-- 🧠 Sklearn (for splitting only)
+- Python
+- Numpy (for MNB & LR)
+- PyTorch (Neural Net)
+- Regex (for Urdu text)
+- Matplotlib, Seaborn
+- Pandas
+- Kaggle Urdu Stopwords
+- Sklearn (for splitting only)
 
 ---
 
@@ -152,7 +152,7 @@ Articles in the **"World"** category were most often confused with **"Entertainm
 
 ## 📄 Reference
 
-The project report and detailed metrics are documented in
+The project report and detailed metrics are documented in the [paper](https://github.com/ASamad73/Urdu_News_Classification-ML/blob/master/19_Report.pdf)
 
 ---
 
